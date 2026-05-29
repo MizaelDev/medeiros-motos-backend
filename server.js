@@ -43,10 +43,13 @@ app.use(helmet({
 // ─────────────────────────────────────────────
 // CORS
 // ─────────────────────────────────────────────
+const allowedOrigins = [
+  process.env.FRONTEND_URL,
+  "http://localhost:5173"
+];
+
 app.use(cors({
-  origin: process.env.FRONTEND_URL || "http://localhost:5173",
-  methods: ["GET", "POST", "PUT", "DELETE"],
-  allowedHeaders: ["Content-Type", "Authorization"],
+  origin: allowedOrigins,
   credentials: true,
 }));
 
