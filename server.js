@@ -56,7 +56,8 @@ app.use(cors({
       return callback(null, true);
     }
 
-    return callback(new Error("Bloqueado por CORS"));
+    // ❌ NÃO lança erro
+    return callback(null, false);
   },
   methods: ["GET", "POST", "PUT", "DELETE"],
   allowedHeaders: ["Content-Type", "Authorization"],
