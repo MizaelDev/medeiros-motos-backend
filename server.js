@@ -94,6 +94,13 @@ app.locals.logSeguranca = logSeguranca;
 // ─────────────────────────────────────────────
 app.use("/uploads", express.static(path.join(__dirname, "uploads")));
 
+app.get("/", (req, res) => {
+  res.json({ 
+    mensagem: "Bem-vindo à API Medeiros Motos", 
+    status: "online",
+    documentacao: "https://seu-projeto.up.railway.app/health" 
+  });
+});
 // ─────────────────────────────────────────────
 // ROTAS
 // ─────────────────────────────────────────────
