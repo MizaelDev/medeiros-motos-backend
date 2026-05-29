@@ -1,0 +1,273 @@
+{
+  "motos": [
+    {
+      "id": 2,
+      "nome": "MT-03",
+      "marca": "Yamaha",
+      "ano": 2024,
+      "cilindrada": 321,
+      "tipo": "Street",
+      "valor": 32990,
+      "parcela": 702,
+      "km": 0,
+      "badge": "Nova",
+      "img": "/images/mt.jpeg",
+      "fotos": [
+        "/images/mt.jpeg"
+      ],
+      "desc": "Esportiva urbana com motor bicilíndrico de 321cc e DNA MT. Design agressivo e desempenho de alto nível.",
+      "destaques": [
+        "Motor bicilíndrico",
+        "Assistência slipper",
+        "Display TFT colorido",
+        "Design MT exclusivo"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "nome": "POP 110",
+      "marca": "Honda",
+      "ano": 2023,
+      "cilindrada": 110,
+      "tipo": "Pop",
+      "valor": 10000,
+      "parcela": 764,
+      "km": 3200,
+      "badge": "0KM",
+      "img": "/images/pop.jpeg",
+      "fotos": [
+        "/images/pop.jpeg"
+      ],
+      "desc": "Econômica e confiável, a Pop 110 é ideal para o dia a dia urbano com baixo consumo e fácil manutenção.",
+      "destaques": [
+        "Baixo consumo",
+        "Partida elétrica",
+        "Freio a disco dianteiro",
+        "Manutenção facilitada"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 4,
+      "nome": "XRE 300",
+      "marca": "Honda",
+      "ano": 2024,
+      "cilindrada": 292,
+      "tipo": "Adventure",
+      "valor": 24590,
+      "parcela": 523,
+      "km": 0,
+      "badge": "Nova",
+      "img": "/images/xre.jpeg",
+      "fotos": [
+        "/images/xre.jpeg"
+      ],
+      "desc": "A clássica trail urbana com motor 292cc e característica aventureira para encarar qualquer terreno.",
+      "destaques": [
+        "Suspensão longa",
+        "Tanque 13,7L",
+        "Motor DOHC",
+        "Pneu misto"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 5,
+      "nome": "Factor 150",
+      "marca": "Yamaha",
+      "ano": 2024,
+      "cilindrada": 149,
+      "tipo": "Commuter",
+      "valor": 12990,
+      "parcela": 277,
+      "km": 0,
+      "badge": "Nova",
+      "img": "/images/factor.jpeg",
+      "fotos": [
+        "/images/factor.jpeg"
+      ],
+      "desc": "A moto mais vendida do Brasil. Economia incomparável, manutenção fácil e confiabilidade Yamaha.",
+      "destaques": [
+        "Baixo consumo",
+        "Injeção eletrônica",
+        "Baú traseiro",
+        "Garantia 3 anos"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 6,
+      "nome": "BIZ 125",
+      "marca": "Honda",
+      "ano": 2023,
+      "cilindrada": 125,
+      "tipo": "Biz",
+      "valor": 17000,
+      "parcela": 1062,
+      "km": 5400,
+      "badge": "0KM",
+      "img": "/images/biz.jpeg",
+      "fotos": [
+        "/images/biz.jpeg"
+      ],
+      "desc": "A Honda Biz 125 combina praticidade e economia para o uso diário nas cidades, com design moderno e motor eficiente.",
+      "destaques": [
+        "Motor 125cc",
+        "Freio a disco",
+        "Partida elétrica",
+        "Bagageiro traseiro"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 7,
+      "nome": "CG FAN 160",
+      "marca": "Honda",
+      "ano": 2023,
+      "cilindrada": 160,
+      "tipo": "Honda CG",
+      "valor": 16500,
+      "parcela": 787,
+      "km": 2600,
+      "badge": "Nova",
+      "img": "/images/fan160.jpeg",
+      "fotos": [
+        "/images/fan160.jpeg"
+      ],
+      "desc": "A CG Fan 160 traz mais potência e tecnologia para o dia a dia, com injeção eletrônica e freios a disco.",
+      "destaques": [
+        "Motor 160cc",
+        "Injeção eletrônica",
+        "Freio a disco",
+        "Painel digital"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 8,
+      "nome": "POP 110",
+      "marca": "Honda",
+      "ano": 2022,
+      "cilindrada": 110,
+      "tipo": "Pop",
+      "valor": 11000,
+      "parcela": 828,
+      "km": 42000,
+      "badge": "Seminova",
+      "img": "/images/pop2022.jpeg",
+      "fotos": [
+        "/images/pop2022.jpeg"
+      ],
+      "desc": "Pop 110 seminova em ótimo estado de conservação. Ideal para quem busca economia com um preço acessível.",
+      "destaques": [
+        "Revisada",
+        "Documentação em dia",
+        "Pneus novos",
+        "Baixo consumo"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 9,
+      "nome": "CG 160 Fan",
+      "marca": "Honda",
+      "ano": 2024,
+      "cilindrada": 162,
+      "tipo": "Honda CG",
+      "valor": 16000,
+      "parcela": 255,
+      "km": 0,
+      "badge": "Mais Vendida",
+      "img": "/images/fan2024.jpeg",
+      "fotos": [
+        "/images/fan2024.jpeg"
+      ],
+      "desc": "A motocicleta símbolo do Brasil. Confiável, econômica e com a tradição Honda de mais de 40 anos.",
+      "destaques": [
+        "Embreagem a seco",
+        "Partida elétrica",
+        "Baixíssimo consumo",
+        "Assistência técnica nacional"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 10,
+      "nome": "Fazer 250",
+      "marca": "Yamaha",
+      "ano": 2024,
+      "cilindrada": 249,
+      "tipo": "Street",
+      "valor": 21000,
+      "parcela": 404,
+      "km": 0,
+      "badge": "Nova",
+      "img": "/images/fazer.jpeg",
+      "fotos": [
+        "/images/fazer.jpeg"
+      ],
+      "desc": "Versátil e moderna, a Fazer 250 une conforto urbano com prazer de pilotar. Ideal para todo tipo de uso.",
+      "destaques": [
+        "Motor 249cc fuel injected",
+        "Duplo farol",
+        "Cuíca digital",
+        "Posição de pilotagem ergonômica"
+      ],
+      "criado_em": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 11,
+      "nome": "Bros",
+      "marca": "Honda",
+      "ano": 2026,
+      "cilindrada": 162,
+      "tipo": "Pop",
+      "valor": 17000,
+      "parcela": 688,
+      "km": 510000,
+      "badge": "Nova",
+      "img": "/images/bros.jpeg",
+      "fotos": [
+        "/uploads/moto_1778945907963.jpeg"
+      ],
+      "desc": "moto para teste só",
+      "destaques": [
+        "Nova",
+        "Boa",
+        "Zero"
+      ],
+      "criado_em": "2026-05-16T15:38:27.969Z"
+    },
+    {
+      "id": 14,
+      "nome": "Cg Start",
+      "marca": "Honda",
+      "ano": 2022,
+      "cilindrada": 162,
+      "tipo": "Honda CG",
+      "valor": 13000,
+      "parcela": 800,
+      "km": 19000,
+      "badge": "Seminova",
+      "img": "/images/cg2022.webp",
+      "fotos": [
+        "/images/cg2022.webp"
+      ],
+      "desc": "Teste moto",
+      "destaques": [
+        "Start",
+        "Honda",
+        "CG"
+      ],
+      "criado_em": "2026-05-16T18:58:28.793Z"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "$2a$12$A7Eir5533G6NF.talhNHtuvgGQTWXI45urFysZsKP9pO9ZayZAx4O"
+    }
+  ]
+}

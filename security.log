@@ -1,0 +1,14 @@
+[2026-05-16T20:41:19.971Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-16T20:41:20.322Z] LOGIN_OK | IP: ::1 | usuario: admin
+[2026-05-27T14:42:25.736Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:42:26.029Z] LOGIN_FALHOU | IP: ::1 | usuario: admin
+[2026-05-27T14:42:30.842Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:42:31.121Z] LOGIN_FALHOU | IP: ::1 | usuario: admin
+[2026-05-27T14:43:07.802Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:43:08.177Z] LOGIN_OK | IP: ::1 | usuario: admin
+[2026-05-27T14:44:51.535Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:44:51.861Z] LOGIN_OK | IP: ::1 | usuario: admin
+[2026-05-27T14:50:47.895Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:50:48.180Z] LOGIN_OK | IP: ::1 | usuario: admin
+[2026-05-27T14:51:06.177Z] AUTH_REQUEST | IP: ::1 | POST /api/auth/login | usuario: admin
+[2026-05-27T14:51:06.516Z] LOGIN_OK | IP: ::1 | usuario: admin
